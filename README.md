@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm student from Wrocław University of Science and Technology. I'm interested in physics simulations and rockets. 
+Hello, I'm student from Wrocław University of Science and Technology. I'm interested in physics simulations and CFDs. 
 ### NEVER GIVE UP!
