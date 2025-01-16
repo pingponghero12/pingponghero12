@@ -7,6 +7,7 @@ At the scientific association I work on various tasks, from process automation, 
 #### Few of my projects
 - [srcli](https://github.com/pingponghero12/CLI-Spaced-Repetition-For-Obsidian) is an obsidian spaced repetition command-line tool designed for maximal simplicity.
 - [lsh](https://github.com/pingponghero12/lsh) is a minimal shell. Supports pipes and background processes.
+- [chinese-checkers](https://github.com/pingponghero12/Chinese-Checkers) a client-server GUI application for playing chinese checkers. Writen in C++, with GUI in PyQt5.
 
 Besides that, I love to automate things I do on my computer. So feel free to check my [Automation](https://github.com/pingponghero12/Automation) repository, with scripts that I use on daily basis.
 
