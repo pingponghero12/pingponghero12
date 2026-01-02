@@ -8,4 +8,7 @@ Hello, I'm CS student at Wrocław University of Science and Technology. My inter
   
 I used to have time automate things I do on my computer. Feel free to check tools I made during that period [Automation](https://github.com/pingponghero12/Automation). I use them daily.
 
+#### Scientific Projects
+- [nasa-sbm-py](https://github.com/pingponghero12/nasa-sbm-py) python library implementing and extending ESA C++ NASA Standard Breakup Model.
+
 ### NEVER GIVE UP!
